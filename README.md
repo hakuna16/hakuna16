@@ -70,12 +70,13 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></code>
 
 <div>
-  <p align="right">📈 my github stats</p>
-  <div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hakuna16&theme=dark&show_icons=true" 
-                                                                  align="right" /></a>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hakuna16&theme=highcontrast&hide_border=true" width="350" /></a>
-</div></a>
+  <p align="right">📈 My github stats</p>
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hakuna16&theme=dark&show_icons=true"     align="right" /></a>
+<div>
+  <p align="left">📈 My github Summary</p>
+</div>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hakuna16&theme=highcontrast&hide_border=true" width="450" /></a>
 </div>
 
 <br />
