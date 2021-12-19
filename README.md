@@ -76,7 +76,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <div>
   <p align="left">📈 My github Summary</p>
 </div>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hakuna16&theme=highcontrast&hide_border=true" width="450" /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=hakuna16&theme=highcontrast&hide_border=true" width="350" /></a>
 </div>
 
 <br />
