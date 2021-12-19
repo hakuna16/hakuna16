@@ -72,7 +72,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <div>
   <p align="right">📈 My github stats</p>
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hakuna16&theme=dark&show_icons=true"     align="right" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hakuna16&theme=dark&show_icons=true"     align="right"  width="350" /></a>
 <div>
   <p align="left">📈 My github Summary</p>
 </div>
